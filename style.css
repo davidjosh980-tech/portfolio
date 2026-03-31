@@ -10,3 +10,17 @@ section {
 .navbar-brand {
     font-weight: bold;
 }
+/* Default nav-link style */
+.nav-link {
+    padding: 10px 20px;
+    transition: all 0.3s;
+    font-size: 1rem;
+}
+
+/* Active menu item style */
+.nav-link.active {
+    background-color: #495057; /* Darker background */
+    font-size: 2rem;          /* Enlarged text */
+    font-weight: bold;
+    border-radius: 5px;
+}
