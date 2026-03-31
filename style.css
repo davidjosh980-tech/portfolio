@@ -1,0 +1,12 @@
+body {
+    font-family: Arial, sans-serif;
+}
+h1, h2 {
+    font-weight: bold;
+}
+section {
+    padding: 60px 0;
+}
+.navbar-brand {
+    font-weight: bold;
+}
